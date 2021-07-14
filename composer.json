@@ -1,0 +1,13 @@
+{
+    "name": "docketry/docketry",
+    "description": "Docketry CMS. The Fast, Powerful but Simple CMS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Develop Scotland",
+            "email": "hello@develop.scot"
+        }
+    ],
+    "require": {}
+}
